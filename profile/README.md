@@ -1,16 +1,15 @@
-<div align="center">
+<p align="center">
+  <a href="https://chainmemoir.com">
+    <img src="https://raw.githubusercontent.com/ChainMemoir/chainmemoir-official/main/assets/chainmemoir-github-banner.svg" alt="ChainMemoir — The chain remembers everything. Solana wallet history and verifiable evidence." width="100%" />
+  </a>
+</p>
 
-<a href="https://chainmemoir.com"><img src="https://raw.githubusercontent.com/ChainMemoir/chainmemoir-official/main/assets/chainmemoir-memory-trace-v2.svg" alt="ChainMemoir — official Memory Trace V2 logo" width="172"></a>
-
-# CHAINMEMOIR
-
-**THE CHAIN REMEMBERS EVERYTHING.**
-
-*Solana wallet intelligence · On-chain history · Verifiable evidence*
-
-[**Website**](https://chainmemoir.com) · [**X**](https://x.com/ChainMemoir) · [**Telegram**](https://t.me/ChainMemoir_updates) · [**Contact**](mailto:contact@chainmemoir.com)
-
-</div>
+<p align="center">
+  <a href="https://chainmemoir.com"><strong>Website</strong></a> &nbsp;·&nbsp;
+  <a href="https://x.com/ChainMemoir"><strong>X</strong></a> &nbsp;·&nbsp;
+  <a href="https://t.me/ChainMemoir_updates"><strong>Telegram</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:contact@chainmemoir.com"><strong>Contact</strong></a>
+</p>
 
 ---
 
