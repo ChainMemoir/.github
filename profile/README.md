@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://chainmemoir.com">
-    <img src="https://raw.githubusercontent.com/ChainMemoir/chainmemoir-official/main/assets/chainmemoir-github-banner.svg" alt="ChainMemoir — The chain remembers everything. Solana wallet history and verifiable evidence." width="100%" />
+    <img src="https://raw.githubusercontent.com/ChainMemoir/chainmemoir-official/main/assets/chainmemoir-github-hero.png" alt="ChainMemoir — Understand your wallet. Recover what you can. Official Solana wallet intelligence banner." width="100%" />
   </a>
 </p>
 
